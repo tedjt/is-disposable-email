@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "disposable-email-domains": "*"
+    "disposable-email-domains": "git://github.com/tedjt/disposable-email-domains"
   },
   "devDependencies": {
     "mocha": "~1.17.1"
